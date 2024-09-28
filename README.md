@@ -1,2 +1,2 @@
 # TM44
-www.tm44.link
+https://tm44.link
