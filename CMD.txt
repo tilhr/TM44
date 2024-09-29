@@ -1,3 +1,5 @@
+Updated Discord CMD List
+
 General
 !TM cmd
 !TM ping
